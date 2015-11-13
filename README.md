@@ -30,6 +30,7 @@
     * [Social Networking](#social-networking)
     * [Video Authoring/Editing](#video-authoringediting)
     * [Video Hosting](#video-hosting)
+  * [Education Technology Blogs](#education-technology-blogs) 
   * [What's Next](#whats-next)
   * [License](#license)
 
@@ -296,6 +297,111 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 Star the repo to help ensure it is maintained.
 
 Add your own tools/resources by [issuing a pull request](https://github.com/hkalant/EducationalToolsResources/pulls).
+
+## Education Technology Blogs
+
+[Mark Anderson](http://http://ictevangelist.com/)
+
+[iLearn Technology](http://ilearntechnology.com/)  
+
+[Educational Technology and Mobile Learning](http://www.educatorstechnology.com/)  
+
+[Virtual School Meanderings](http://virtualschooling.wordpress.com/)  
+
+[E-Learning Queen](http://elearnqueen.blogspot.com/)  
+
+[Teaching…My Calling](http://teachingmycalling.blogspot.com/)  
+
+[Cool Cat Teacher](http://www.coolcatteacher.com/)  
+
+[Emerging Ed Tech](http://www.emergingedtech.com/)  
+
+[The Innovative Educator](http://theinnovativeeducator.blogspot.com/)  
+
+[Teachers at Technology Trailblazers](http://www.kristenswanson.org/)  
+
+[Free Technology for Teachers](http://www.freetech4teachers.com/)  
+
+[Creating Lifelong Learners](http://creatinglifelonglearners.com/)  
+
+[Geek.teacher](http://dancallahan.net/)  
+
+[Educational Technology Guy](http://educationaltechnologyguy.blogspot.com/)  
+
+[Ask a Tech Teacher](http://askatechteacher.com/)  
+
+[21 Apples](http://www.21apples.org/)  
+
+[assorted stuff](http://www.assortedstuff.com/)  
+
+[Learning with ‘e’s](http://steve-wheeler.blogspot.com/)  
+
+[2 Cents Worth](http://davidwarlick.com/2cents/)  
+
+[always learning](http://kimcofino.com/blog/)  
+
+[Teacher Reboot Camp](http://teacherbootcamp.edublogs.org/)  
+
+[Teach42](http://www.teach42.com/)  
+
+[Hack Education](http://www.hackeducation.com/)  
+
+[edtech Vision](http://edtechvision.org/)  
+
+[High Techpectations](http://elemenous.typepad.com/)  
+
+[The Nerdy Teacher](http://www.thenerdyteacher.com/)  
+
+[Drape’s Takes](http://drapestak.es/)  
+
+[On an E-Journey with Generation Y](http://murcha.wordpress.com/)  
+
+[Yes Tech!](http://yesedtech.blogspot.com/)  
+
+[For the Love of Teaching](http://www.fortheloveofteaching.net/)  
+
+[Tech Transformation](http://www.maggiehosmcgrane.com/)  
+
+[Angela Maiers](http://www.angelamaiers.com/blog/)  
+
+[Reflections of a Techie](http://teachingtechie.typepad.com/)  
+
+[Blogging About the Web 2.0 Connected Classroom](http://web20classroom.blogspot.com/)  
+
+[Doug – Off the Record](http://dougpete.wordpress.com/)  
+
+[Edu-(Tech)niques](http://edutechniques.com/)  
+
+[Bud the Teacher](http://budtheteacher.com/blog/)  
+
+[The Power of Educational Technology](http://edtechpower.blogspot.com/)  
+
+[Hey Jude](http://heyjude.wordpress.com/)  
+
+[EdTech Sandy K](http://edtechsandyk.blogspot.com/)  
+
+[Ed Tech Ideas](http://edtechideas.com/)  
+
+[Technology Fridge](http://www.techfridge.com/)  
+
+[21st Century Educational Technology and Learning](http://21centuryedtech.wordpress.com/)  
+
+[Engaging Educators](http://www.engagingeducators.com/blog/)  
+
+[Technology Bits Bytes and Nibbles](http://www.technologybitsbytesnibbles.info/)  
+
+[Learn2Earn: The Blog](http://blog.learn2earn.org/)  
+
+[The Fischbowl](http://thefischbowl.blogspot.com/)  
+
+[Technology Tidbits](http://cyber-kap.blogspot.com/)  
+
+[The Edge of Tomorrow](http://bengrey.com/blog/)  
+
+[Bit by Bit](http://bobsprankle.com/bitbybit_wordpress/)  
+
+[Kassblog](http://www.kassblog.com/)  
+
 
 ## License
 Available under the [CC0 license](http://creativecommons.org/publicdomain/zero/1.0/).
