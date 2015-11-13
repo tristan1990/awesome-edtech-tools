@@ -1,9 +1,10 @@
-# Awesome Educational Technology Tools
+# Awesome Educational Technology Tools for Educators
 
 ## Table of Contents -
 
   * [Introduction](#user-content-introduction)
   * [The List](#the-list)
+    * [Assessment for Learning Tools](#assessment-for-learning-tools)
     * [Chart Tools](#chart-tools)
     * [Cloud Storage](#cloud-storage) 
     * [Coding/Programming Schools](#codingprogramming-schools)
@@ -34,11 +35,16 @@
 
 ## Introduction
 
-In the era of virtual education and online teaching, educators around the globe are in front of a really wide range of tools they can use in their courses. It is critical, yet too hard, to always stay up-to-date and be aware of all those resources. Inspired by the [HN Tools of Trade, 2014 Edition](https://github.com/cjbarber/ToolsOfTheTrade), I decided to create a similar repository on Github with a list of tools and resources for every teacher out there.
+In the era of virtual education and online teaching, educators around the globe are in front of a really wide range of tools they can use in their courses. It is critical, yet near impossible, to always stay up-to-date and be aware of all those resources. 
 
 If you are familiar with [Github](https://github.com/hkalant/EducationalToolsResources), go star it, fork it and add your own tools of trade. It's hosted on Github for a reason. Please [submit pull requests](https://github.com/hkalant/EducationalToolsResources/pulls).
 
 ## The List
+
+### Assessment for Learning Tools
+* [Kahoot](http://kahoot.it)
+* [Socrative](http://www.socrative.com)
+* [Twitter Status Creator](http://ictcomputerscience.org)
 
 ### Chart Tools
 * [Creately](http://creately.com/)
@@ -288,9 +294,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 ## What's Next
  
 Star the repo to help ensure it is maintained.
- 
-[Tweet this repo](https://twitter.com/intent/tweet?related=hkalant&text=Educational tools and resources for educators and virtual teachers&url=https%3A%2F%2Fgithub.com%2Fhkalant%2FEducationalToolsResources&via=hkalant) so that more people discover it and add to it.
- 
+
 Add your own tools/resources by [issuing a pull request](https://github.com/hkalant/EducationalToolsResources/pulls).
 
 ## License
