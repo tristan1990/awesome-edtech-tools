@@ -72,6 +72,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [One Month](http://onemonth.com/)
 * [Scratch](http://scratch.mit.edu/)
 * [Treehouse Club](http://teamtreehouse.com/library/treehouse-club-html)
+* [Cloud9IDE](http://www.c9.io)
 
 ### Community Tools
 * [Discourse](http://www.discourse.org/)
@@ -126,6 +127,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 
 ### Infographics Tools
 * [Visual.ly](http://visual.ly/)
+* [Piktochart](http://piktochart.com)
 
 ### Knowledge Tracking/Wiki
 * [PBWorks](http://www.pbworks.com/education.html)
